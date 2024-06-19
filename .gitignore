@@ -28,3 +28,9 @@ Thumbs.db
 
 
 data
+
+# Deno
+deno_modules/
+node_modules
+.tsbuildinfo
+output
